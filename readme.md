@@ -9,7 +9,7 @@ Note: It is recommended to download Galaxy Swapper v2 from [here](https://aorada
 Galaxy Swapper v2 is a free Fortnite skin changer built in WPF that allows you to modify your game files to replace a cosmetic you own with a cosmetic you desire, all with ease. We have also developed a simple and user-friendly user-interface for your convenience.
 
 ## Social media links
-* [Website](aostats.online/galaxyswapper)
+* [Website](https://aoradar.online/galaxyswapper/)
 * [Discord](https://discord.gg/BZxWwGvfZ)
 
 ## Packages used in our application
